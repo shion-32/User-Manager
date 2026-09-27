@@ -87,7 +87,7 @@ require_once __DIR__ . '/foo.php';
 
                     <?php } ?>
                   </tbody>
-                </table>     
+                </table>
             </div>
         </div>
     </div>
