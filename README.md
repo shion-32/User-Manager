@@ -49,6 +49,6 @@ _______________________________
 
 Автор
 
-Екатерина Шингирей
-Email: ekaterinasingirej393@gmail.com
-Telegram: @katyshi06
+- Екатерина Шингирей
+- Email: ekaterinasingirej393@gmail.com
+- Telegram: @katyshi06
