@@ -10,4 +10,3 @@ try {
 } catch (PDOException $e) {
     echo 'Ошибка соединения с БД' . $e->getMessage();
 }
-?>
